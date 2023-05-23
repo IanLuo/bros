@@ -10,7 +10,7 @@ transformers==4.11.3
 seqeval==0.0.12
 imagesize
 
-tensorboard>=2.2.0
+tensorboard==2.2.0
 
 # code-style
 isort==5.9.3
