@@ -6,7 +6,7 @@ omegaconf
 pillow
 six
 overrides==4.1.2
-transformers==4.11.3
+transformers>=4.11.3
 seqeval==0.0.12
 imagesize
 
