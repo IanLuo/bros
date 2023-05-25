@@ -17,6 +17,6 @@ isort==5.9.3
 black==21.9b0
 
 # pytorch
---find-links https://download.pytorch.org/whl/torch_stable.html
+# --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.9.1+cu102
 torchvision==0.10.1+cu102
